@@ -1,1 +1,1 @@
-web: gunicorn DevForm.wsgi --log-file -
+web: gunicorn DevForms.wsgi --log-file -
