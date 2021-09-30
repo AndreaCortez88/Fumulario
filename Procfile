@@ -1,0 +1,1 @@
+web: gunicorn DevForm.wsgi --log-file -
