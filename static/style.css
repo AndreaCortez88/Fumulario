@@ -1,0 +1,32 @@
+body {
+	font-family: Times New Roman;
+	background-image: url(https://fondosmil.com/fondo/51286.jpg);
+	padding: 2em 20em;
+
+
+}
+
+h1 {
+	text-align: center;
+
+}
+
+.textfile {
+	padding: 4em;
+}
+
+div > .input-group {
+	padding: 1em;
+}
+
+
+iframe {
+ 	max-width: 100%;
+ 	height: 350px;
+}
+
+form {
+	background: #33FFCA;
+	padding: 2em;
+}
+
